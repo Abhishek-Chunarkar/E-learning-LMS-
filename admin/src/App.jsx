@@ -32,7 +32,7 @@ import WhyCodeMate from "./landing/WhyCodemate";
 import PopularCourses from "./landing/PopularCourses";
 import CTASection from "./landing/cta";
 import FAQPage from "./landing/FaqPage";
-import AboutUs from "./landing/aboutus";
+import AboutUs from "./landing/AboutUs";
 import ContactUs from "./landing/ContactUs";
 import Footer from "./landing/footer";
 
