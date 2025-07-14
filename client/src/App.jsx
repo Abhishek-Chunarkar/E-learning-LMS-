@@ -2,7 +2,7 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import "./App.css";
 import Login from "./pages/Login";
 import HeroSection from "./pages/student/HeroSection";
-import Futur from "./landing/Futur";
+import Future from "./landing/future";
 import MainLayout from "./layout/MainLayout";
 import MyLearning from "./pages/student/MyLearning";
 import Profile from "./pages/student/Profile";
@@ -51,7 +51,7 @@ const appRouter = createBrowserRouter([
           <>
             <HeroSection />
             <Cards />
-            <Futur />
+            <Future />
             <WhyCodeMate />
             <PopularCourses />
             <CTASection />
